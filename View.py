@@ -1,4 +1,3 @@
-crimport os
 import sys
 import requests
 AngivLink = input('Video ID Fx 6971527305076231430 -> ')
