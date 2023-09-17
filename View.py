@@ -19,7 +19,7 @@ hat = {
 }
 date =  {
 '0429a': 'tok_free',
-'af49f': 'views',
+'af49f': 'hearts',
 '9a898': '{AngivLink}'}
 while True:
     tiktoker = requests.post(url, data=date, headers=hat)
