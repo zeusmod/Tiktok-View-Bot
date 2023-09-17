@@ -1,4 +1,4 @@
-import os
+crimport os
 import sys
 import requests
 AngivLink = input('Video ID Fx 6971527305076231430 -> ')
@@ -15,7 +15,7 @@ hat = {
 'sec-fetch-mode': 'cors',
 'sec-fetch-site': 'same-origin',
 'sec-gpc': '1',
-'user-agent': ', 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.366',
+'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.366',
 'x-requested-with': 'XMLHttpRequest',
 }
 date =  {
