@@ -15,7 +15,7 @@ hat = {
 'sec-fetch-mode': 'cors',
 'sec-fetch-site': 'same-origin',
 'sec-gpc': '1',
-'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36',
+'user-agent': ', 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.366',
 'x-requested-with': 'XMLHttpRequest',
 }
 date =  {
